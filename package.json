@@ -17,5 +17,8 @@
   },
   "dependencies": {
     "solid-js": "^1.8.11"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/xploreweb/ToDo-APP-SolidJS.git",
+  "author": "xploreweb <vaiko.edur@tptlive.ee>"
 }
