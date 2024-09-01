@@ -6,6 +6,7 @@ import { removeAllCheckedTodos, todos } from "./state/todo";
 const App: Component = () => {
   return (
     <>
+      <h1>Tööde nimekiri</h1>
       <TodoForm></TodoForm>
 
       <For each={todos}>
