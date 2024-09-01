@@ -39,4 +39,4 @@ function removeAllCheckedTodos() {
     setTodos(todos.filter(todo => !todo.checked));
 }
 
-export { todos addTodo, checkTodo, removeAllCheckedTodos }
+export { todos, addTodo, checkTodo, removeAllCheckedTodos }

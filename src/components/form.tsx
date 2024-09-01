@@ -19,7 +19,7 @@ const TodoForm: Component = () => {
     return (
         <form onSubmit={handleFormSubmit}>
             <input type="text" ref={input} />
-            <button type="submit">Salvesta</button>
+            <button type="submit">Lisa töö</button>
         </form>
     )
 }
